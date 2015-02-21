@@ -1,0 +1,14 @@
+{
+  "name": "Skeleton",
+  "version": "0.0.0",
+  "description": "Skeleton",
+  "main": "app.js",
+  "author": {
+    "name": "Angel",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.11.2",
+    "jade": "^1.9.2"
+  }
+}
